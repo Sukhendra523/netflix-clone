@@ -26,7 +26,7 @@
   Install all dependencies
 
   ```
-  cd google-clone
+  cd netflix-clone
   npm install
   ```
 
